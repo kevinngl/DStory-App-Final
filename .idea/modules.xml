@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.dstory.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.dstory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidStudioProjects.dstory.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dstory.iml" filepath="$PROJECT_DIR$/.idea/dstory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dstory.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dstory.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dstory.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dstory.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dstory.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dstory.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/dstory.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/dstory.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
